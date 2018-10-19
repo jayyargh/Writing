@@ -12,6 +12,8 @@ Yeah, that's a really nice shirt to get for free, and yes, this is a global even
 
 > Navigate to [the main Hacktoberfest site](https://hacktoberfest.digitalocean.com/) and you'll be greeted with a site like this:
 
+<img width="200" alt="portfolio_view" src="https://github.com/jayyargh/Writing/blob/master/Medium/Hacktoberfest/hacktober-register.png">
+
 > Your next objective is to "Start Hacking", which will take you to a page that prompts you to "Register". Upon clicking this, you'll be prompted to link up your Github (this is your reminder to make sure you're registered on Github if you haven't already!) and once done, you're all set! Head back to the main Hacktoberfest page and instead of "Start Hacking" you'll be able to check your progress which will show you your progress towards the shirt, a neat chart with all of your PR's that count, and below that, global stats for the entire Hacktoberfest event.
 
 As of right now, there are 23,000+ people who have completed the event with their 5 PR's. I believe the first 50k people will receive shirts, which is an astronomical number of shirts to send out. Now, moving steadily along...
